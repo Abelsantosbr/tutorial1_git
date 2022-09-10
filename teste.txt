@@ -1,0 +1,1 @@
+Arquivo teste.txt criado no git remoto, direto no repositório
